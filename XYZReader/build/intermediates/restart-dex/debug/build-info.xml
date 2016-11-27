@@ -5,33 +5,47 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="264711297365886"
+    timestamp="271047794285992"
     token="-3346019187566682999"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1336" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="563" />
+        duration="0" />
     <task
         name="verifier"
-        duration="92" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\Puneeth\Workspace\PN\Udacity-XYZReader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-        type="MAIN" />
+        location="C:\Users\Puneeth\Workspace\PN\Udacity-XYZReader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="264711297365886"
+        timestamp="269615766810353"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Puneeth\Workspace\PN\Udacity-XYZReader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="270978618874717"
+        verifier="FIELD_ADDED" >
+        <artifact
+            location="C:\Users\Puneeth\Workspace\PN\Udacity-XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="271047794285992"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Puneeth\Workspace\PN\Udacity-XYZReader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
