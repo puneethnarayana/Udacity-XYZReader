@@ -5,7 +5,7 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="271047794285992"
+    timestamp="272245257449069"
     token="-3346019187566682999"
     verifier="COMPATIBLE" >
 
@@ -27,21 +27,14 @@
         type="RESOURCES" />
 
     <build
-        timestamp="269615766810353"
+        timestamp="271805152507798"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Puneeth\Workspace\PN\Udacity-XYZReader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="270978618874717"
-        verifier="FIELD_ADDED" >
-        <artifact
-            location="C:\Users\Puneeth\Workspace\PN\Udacity-XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="271047794285992"
+        timestamp="272245257449069"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\Puneeth\Workspace\PN\Udacity-XYZReader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
